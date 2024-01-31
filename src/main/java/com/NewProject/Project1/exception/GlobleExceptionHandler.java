@@ -29,5 +29,5 @@ public class GlobleExceptionHandler extends ResponseEntityExceptionHandler {
 
 /*
     why ResponseEntity?
-    -> because it send the response back to the post man
+    -> because it send the response back to the postman
  */

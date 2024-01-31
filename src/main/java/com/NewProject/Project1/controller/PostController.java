@@ -36,7 +36,7 @@ public class PostController {
     }
 }
 
-// if the Record is found return back record found if Not through a message no post found for this message
+// if the Record is found return back if Not through a message no post found for this message
 // throwing  the exception not handing the exception here
 /*  how do you hand an exception in Spring Boot
    1.@ControllerAdvice Class

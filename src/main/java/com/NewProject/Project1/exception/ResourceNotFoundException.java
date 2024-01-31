@@ -2,7 +2,8 @@ package com.NewProject.Project1.exception;
 
 public class ResourceNotFoundException extends RuntimeException{
 
-    public ResourceNotFoundException(String message) {
+    public ResourceNotFoundException(String message) { //create constructor
+
         super(message);
     }
 }
